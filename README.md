@@ -1,0 +1,1 @@
+# Esta app fue creada con React a modo de practica, su fin es ser un buscador de gifs
